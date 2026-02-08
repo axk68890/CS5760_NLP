@@ -1,2 +1,2 @@
-All the code with comments and the corresponding explaination for question
+All the code with comments and the corresponding explanation for question
 is provided in the jupyter notebook.
